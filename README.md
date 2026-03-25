@@ -1,1 +1,2 @@
-deployed under https://charmingsass.github.io/VR_solar_system/ 
+deployed under https://charmingsass.github.io/VR_solar_system/
+// learning
